@@ -294,7 +294,7 @@ LIMIT 1;
 
 
 
-### 📖 PRATİK 8 - dvdrental Veritabanı
+### 📖 PRATİK 8 - Tablo Ekleme - Silme - Güncelleme
 <hr>
 
 #### ❓SORU
